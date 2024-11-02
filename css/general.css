@@ -1,0 +1,17 @@
+/** BiblioPress-specific styles for non-admin blog pages. */
+
+div.bibliopress_review div.bibliopress_user_rating {
+    margin: .5ex 0px;
+}
+
+div.bibliopress_review div.bibliopress_item_image {
+    float: right;
+}
+
+div.bibliopress_review div.bibliopress_item {
+    font-style: italic;
+}
+
+div.bibliopress_review div.bibliopress_user_comment {
+    padding-top: 1em;
+}

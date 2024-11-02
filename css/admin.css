@@ -1,0 +1,11 @@
+
+
+div#bibliopress-icon-32 h2 {
+    min-height: 36px;
+    padding-left: 36px;
+    vertical-align: middle;
+
+    background-image: url(../images/bibliopress-icon.png);
+    background-repeat: no-repeat;
+    background-position: center left;
+}
